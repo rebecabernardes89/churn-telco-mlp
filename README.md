@@ -4,6 +4,8 @@ Trabalho final da disciplina **Modelagem de Dados com Redes Neurais Artificiais*
 
 Integrantes: Rebeca Camille Bernardes, Ana Carolina Moraes Campos, Sabrina de Araújo Corrêa e Karen Dal Magro Frigeri.
 
+Repositório: <https://github.com/rebecabernardes89/churn-telco-mlp>
+
 Classificação binária do cancelamento de clientes de uma operadora de telecomunicações com um perceptron multicamadas (MLP) em TensorFlow/Keras, comparado a uma regressão logística.
 
 ## Dados
@@ -15,7 +17,7 @@ Classificação binária do cancelamento de clientes de uma operadora de telecom
 
 ## Como executar
 
-1. Abra `Churn_Telco_MLP.ipynb` no Google Colab (*Arquivo → Fazer upload de notebook*) ou em um Jupyter local.
+1. Abra o notebook direto no Colab: [Abrir no Colab](https://colab.research.google.com/github/rebecabernardes89/churn-telco-mlp/blob/main/Churn_Telco_MLP.ipynb). Também é possível baixar `Churn_Telco_MLP.ipynb` e abri-lo em um Jupyter local.
 2. Localmente, instale as dependências: `pip install -r requirements.txt`.
 3. Execute todas as células em ordem (*Ambiente de execução → Executar tudo*). Tempo aproximado: 20 a 30 minutos em CPU.
 
